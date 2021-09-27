@@ -1,2 +1,1 @@
 Hello, This is Version1!.
-Yes,This is new --removing it.
